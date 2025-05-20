@@ -8,7 +8,7 @@
 
 This project implements and evaluates multiple machine learning models for predicting the occurrence of brain strokes using health-related data such as age, gender, BMI, glucose levels, hypertension, heart disease, and more. The goal is to determine which model performs best at identifying high-risk individuals and to compare the results with those published in the paper:
 
-**- Implement and evaluate the following machine learning models:**  
+## Implement and evaluate the following machine learning models:  
   - KNN (k = 5 and k = 173)
   - Logistic Regression
   - Random Forest
@@ -17,7 +17,7 @@ This project implements and evaluates multiple machine learning models for predi
   - SVM (Linear, RBF, Polynomial, Sigmoid kernels)
   - XGBoost
 
-**- Assess model performance using metrics:**
+## Assess model performance using metrics:
   - Accuracy
   - F1 Score
   - Precision
