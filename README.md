@@ -2,7 +2,7 @@
 
 ## Group Members:
 1. Muhammad Awais Tariq (SP25-RAI-009)
-2. Muhammad Faisal Sher Khan (SP25-RAI-011)
+2. Muhammad Faisal Sher (SP25-RAI-011)
 
 ## 📌 Project Overview
 
