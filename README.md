@@ -1,5 +1,9 @@
 # 🧠 Brain Stroke Prediction using Machine Learning
 
+## Group Members:
+1. Muhammad Awais Tariq (SP25-RAI-009)
+2. Muhammad Faisal Sher Khan (SP25-RAI-011)
+
 ## 📌 Project Overview
 
 This project implements and evaluates multiple machine learning models for predicting the occurrence of brain strokes using health-related data such as age, gender, BMI, glucose levels, hypertension, heart disease, and more. The goal is to determine which model performs best at identifying high-risk individuals and to compare the results with those published in the paper:
