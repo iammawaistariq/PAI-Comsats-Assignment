@@ -8,6 +8,16 @@
 
 This project implements and evaluates multiple machine learning models for predicting the occurrence of brain strokes using health-related data such as age, gender, BMI, glucose levels, hypertension, heart disease, and more. The goal is to determine which model performs best at identifying high-risk individuals and to compare the results with those published in the paper:
 
+## Two coding files are available
+1. Paper Implementation file
+2. Our Implementation code file
+
+### Paper Implementation:
+The paper has made many mistakes while implementing ML models.
+1. Paper applied Ordinal Encoding on all categorical varialbes which does not make sense as most categorical features should be OneHotEncoded.
+2. Dataset is highly imbalanced, but paper did not used any class blanacing technique like SMOTE.
+3. Results were highly biased and model were overfitted.
+
 ## Implement and evaluate the following machine learning models:  
   - KNN (k = 5 and k = 173)
   - Logistic Regression
